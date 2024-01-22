@@ -1,4 +1,5 @@
 // URI 1197 - Volta a faculdade de física, funcionando para vários casos de teste, porém não termina em EOF (?)
+// Código atualizado e funcional.
 
 import java.util.Scanner;
 import java.util.NoSuchElementException;
